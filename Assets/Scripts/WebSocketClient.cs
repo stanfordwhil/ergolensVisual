@@ -25,7 +25,7 @@ public class WebSocketClient : MonoBehaviour
 
         m_Message = "No data.";
 
-        using (m_ws = new WebSocket("ws://511f2bf9.ngrok.io"))
+        using (m_ws = new WebSocket("ws://a9dd09be.ngrok.io"))
         {
             //m_ws.Log.Level = WebSocketSharp.LogLevel.TRACE;
             //m_ws.Log.File = "D:\\ws_log.txt";

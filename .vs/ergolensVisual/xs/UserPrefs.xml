@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DD5CDA66-4EC2-A524-0815-3D23ED89E090}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RenderPoints.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RenderPoints.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ergolensVisual" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RenderPoints.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f55bc2c0-f87c-4038-a5d5-de028a5c037a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
